@@ -1,0 +1,10 @@
+{
+  "name": "AI Career Copilot",
+  "description": "AI-Powered Interview Preparation Platform — analyze resumes, practice voice-based mock interviews, get instant feedback, and track performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
